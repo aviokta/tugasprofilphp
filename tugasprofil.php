@@ -55,7 +55,7 @@
 
     <h1 class="helo">HELLO THERE!!</h1>    
     <p class="im">I'M AVI</p>    
-    <div><img src="C:\Users\STANDBY\Downloads\WhatsApp Image 2022-11-20 at 21.00.53.jpeg" alt="foto profil" class="foto" class="center"></div>
+    <div><img src="foto\WhatsApp Image 2022-11-20 at 21.00.53.jpeg" alt="foto profil" class="foto" class="center"></div>
     <br><br>
     <p style="font-size: 65px; color: rgb(106, 99, 84); text-align: center ;"><strong>About me</strong> </p>
     <p style="font-size: 45px; color: rgb(141, 131, 108); text-align: center;">Hey there, I’m Avi Oktaviani from Kediri. I'm a student from UPN Veteran Jawa Timur faculty of Computer Science and majoring in informatics. </p>
